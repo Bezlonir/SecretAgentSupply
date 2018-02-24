@@ -1,0 +1,12 @@
+html {
+  font-size:18px;
+}
+
+* {
+  font-family:helvetica,sans-serif;
+}
+
+.container {
+  display:flex;
+  width:960px;
+}
